@@ -4,6 +4,8 @@
 
 These are instructions on how to build an ESP32 based device with a screen (using the Lily TTGO T-display) to measure the speed of a computer fan.
 
+A [short technical explanation](technicalNotes.md) explains how the velocity is measured and how the device was validated.
+
 Part list:
 
 1. [LilyGo TTGO T display](https://lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board) or a [clone](https://www.aliexpress.com/item/1005005970553639.html)
@@ -31,7 +33,7 @@ Using the device:
 
 The device can be powered using the USB-C cable (e.g. using a phone charger or external battery)
 
-In the Arduino code, there is an option to also add a temperature sensor
+In the Arduino code, there is an option to also add a DS18B20 temperature sensor
 
 [images/example.jpg]: images/example.jpg
 [images/4wire.jpg]: images/4wire.jpg
