@@ -1,4 +1,4 @@
-**Measuring motor (fan) velocity**
+# Measuring motor (fan) velocity
 
 Computer fans generally use [DC brushless motors](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor). A DC motor requires constantly changing the polarity of the electromagnets to keep the motor turning. While some motors use a commutator to do this, this requires a brush, which will wear out. Brushless motors are controlled by an integrated circuit (IC) and so do not require brushes (hence the name) \- the magnets change their polarity at the right times, controlled by the IC.
 

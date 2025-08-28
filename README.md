@@ -9,7 +9,7 @@ A [short technical explanation](technicalNotes.md) explains how the velocity is 
 Part list:
 
 1. [LilyGo TTGO T display](https://lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board) or a [clone](https://www.aliexpress.com/item/1005005970553639.html)
-2. Two wires with alligator clips at one end, and a wire at the other end (I used black for ground, and yellow for the tacho - I bought wire with alligotor clips at both ends and cut them in half)
+2. Two wires with alligator clips at one end, and a wire at the other end (I used black for ground, and yellow for the tacho - I bought wire with alligator clips at both ends and cut them in half)
 3. [3D printed box for the device](https://makerworld.com/en/models/1388397-ttgo-t-display-enclosure)
 
 Construction:
