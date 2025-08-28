@@ -35,15 +35,15 @@ In order to validate the speed \- we filmed the device at 240 Hz (iPhone slow mo
 
 15 Hz
 
-https://github.com/user-attachments/assets/deaa0e6c-1485-42c1-8964-393952c5669c
+https://github.com/user-attachments/assets/df123882-a169-4419-a2c6-cf409f2f70e6
 
 28 Hz
 
-https://github.com/user-attachments/assets/bcecb7b3-af1b-43e5-8df2-b00fd312c064
+https://github.com/user-attachments/assets/3e649ebb-4530-42c7-9799-1ce060bd0cbe
 
 46 Hz
 
-https://github.com/user-attachments/assets/bbb940d5-dee8-4a85-abb0-4c46f0535b16
+https://github.com/user-attachments/assets/70c23890-a66d-4d2b-97e8-9b180848d9a9
 
 [images/image1.jpg]: images/image1.jpg
 [images/image2.jpg]: images/image2.jpg
