@@ -10,7 +10,7 @@ The blades of the fan are attached to a permanent circular magnet
 ![Blades of a computer fan][images/image2.jpg]  
 *The blades of a computer fan \- the circular magnet can also be seen (the fan lost some blades in a collision, do not try at home).*
 
-Many electric motors, such as those used in computer fans, also include a Hall [effect sensor](https://en.wikipedia.org/wiki/Hall_effect_sensor). This sensor measures the magnetic field. As the blades are rotating, the permanent magnet is also rotating, causing a constantly changing magnetic field. In this case, the sensor is a CC6407 Hall effect sensor. It changes the voltage when a particular threshold is crossed.  
+Many electric motors, such as those used in computer fans, also include a [Hall effect sensor](https://en.wikipedia.org/wiki/Hall_effect_sensor). This sensor measures the magnetic field. As the blades are rotating, the permanent magnet is also rotating, causing a constantly changing magnetic field. In this case, the sensor is a CC6407 Hall effect sensor. It changes the voltage when a particular threshold is crossed.  
 ![Hall effect sensor][images/image3.jpg]  
 *The hall effect sensor (CC6407) is shown by the red ellipse.*
 
