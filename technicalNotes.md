@@ -14,7 +14,9 @@ Many electric motors, such as those used in computer fans, also include a [Hall 
 ![Hall effect sensor][images/image3.jpg]  
 *The hall effect sensor (CC6407) is shown by the red ellipse.*
 
-This can be observed using an oscilloscope (see picture below), a video demonstrating how the signal changes as the motor gets faster can be found [here, with an explanation in Hebrew](videos/oscilloscope_rotated.mov).
+This can be observed using an oscilloscope (see picture below), a video demonstrating how the signal changes as the motor gets faster can be found in this video (with an explanation in Hebrew).
+
+https://github.com/user-attachments/assets/13270831-8d5a-45f5-8470-a30962973197
 
 ![Oscilloscope showing the signal from the third pin of the fan][images/image4.jpg]  
 *An oscilloscope showing the signal received from the third pin of the fan*
