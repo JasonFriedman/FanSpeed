@@ -31,7 +31,19 @@ In this case, PULSES\_PER\_REVOLUTION is set to 2, deltaTime is the change in ti
 
 The full Arduino program can be found [here](fanCounter/fanCounter.ino)
 
-In order to validate the speed \- we filmed the device at 240 Hz (iPhone slow motion), examples can be found for [15 Hz](videos/motor_speed_test_15Hz.mov), [28 Hz](videos/motor_speed_test_28Hz.mov), and [46 Hz](videos/motor_speed_test_46Hz.mov).
+In order to validate the speed \- we filmed the device at 240 Hz (iPhone slow motion), examples can be found for:
+
+15 Hz
+
+https://github.com/user-attachments/assets/deaa0e6c-1485-42c1-8964-393952c5669c
+
+28 Hz
+
+https://github.com/user-attachments/assets/bcecb7b3-af1b-43e5-8df2-b00fd312c064
+
+46 Hz
+
+https://github.com/user-attachments/assets/bbb940d5-dee8-4a85-abb0-4c46f0535b16
 
 [images/image1.jpg]: images/image1.jpg
 [images/image2.jpg]: images/image2.jpg
